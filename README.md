@@ -19,7 +19,7 @@ Hi, I'm Wajih Ul Qammar 👋  <br><br>I am a passionate Website & Full-Stack Dev
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=wajihulqammar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=wajihulqammar&limit=5&theme=light&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=wajihulqammar&icon=0&color=0)](https://visitcount.itsvg.in)
