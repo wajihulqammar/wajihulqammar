@@ -61,7 +61,7 @@ I work with modern technologies including:
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=wajihulqammar&show_icons=true&theme=transparent&hide_border=true&title_color=2EA043&icon_color=56D364&text_color=ffffff&bg_color=00000000" width="48%" />
+
 <img src="https://streak-stats.demolab.com?user=wajihulqammar&theme=transparent&hide_border=true&background=00000000&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" width="48%" />
 
 <br/>
