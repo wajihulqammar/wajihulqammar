@@ -66,7 +66,7 @@ I work with modern technologies including:
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wajihulqammar&theme=react-dark&hide_border=true&bg_color=00000000&color=2EA043&line=2EA043&point=A8E6A1&area=true&area_color=2EA043" width="97%" />
+<img src="https://github-readme-activity-graph-lac-nine.vercel.app/graph?username=wajihulqammar&theme=react-dark&hide_border=true&bg_color=00000000&color=2EA043&line=2EA043&point=A8E6A1&area=true&area_color=2EA043" width="97%" />
 
 </div>
 
