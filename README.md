@@ -53,11 +53,6 @@ I work with modern technologies including:
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,mysql,django,python,cpp,js,ts,html,css,tailwind,redis,docker,git,github,figma,vercel,wordpress,vscode,postman&theme=dark" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Shopify-2EA043?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Railway-2EA043?style=for-the-badge&logo=railway&logoColor=white" />
-
 </div>
 
 <br/>
