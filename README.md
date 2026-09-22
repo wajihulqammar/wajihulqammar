@@ -2,33 +2,150 @@
    <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
    <img alt="Logo for Your Banner Title" src="art/header-light.png">
 </picture>
+<div align="center">
 
 
-# 💫 About Me:
-Hi, I'm Wajih Ul Qammar 👋  <br><br>I am a passionate Website & Full-Stack Developer with experience in building responsive, scalable, and user-focused web applications.  <br><br>I work with modern technologies including:<br><br>- MERN Stack (MongoDB, Express.js, React, Node.js)<br>- WordPress Development<br>- Shopify Development<br>- React.js & Node.js<br>- MySQL & MongoDB<br>- Artificial Intelligence (AI) concepts & integration<br>- Mobile Application Development<br>- Laravel & PHP 
-(Basics)<br><br>I enjoy turning complex ideas into practical digital solutions and continuously expanding my technical expertise.  <br><br>🚀 Currently open to remote opportunities, freelance projects, and collaborative tech ventures.
 
+<br/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/wajiul.qammar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wajihulqammar._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wajih-ul-qammar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wajiul.qammar@gmail.com) 
+# Hey there, I'm Wajih Ul Qammar 👋
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wajihulqammar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=wajihulqammar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wajihulqammar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+(MERN);Building+AI-Integrated+Web+Apps;Shopify+%26+WordPress+Developer;Software+Engineering+Student+%40+CUST" alt="Typing SVG" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wajihulqammar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://img.shields.io/github/followers/wajihulqammar?label=Followers&style=for-the-badge&color=2EA043&labelColor=1B5E20" />
+<img src="https://img.shields.io/github/stars/wajihulqammar?label=Stars&style=for-the-badge&color=2EA043&labelColor=1B5E20" />
+<img src="https://komarev.com/ghpvc/?username=wajihulqammar&label=Profile%20Views&style=for-the-badge&color=2EA043&labelColor=1B5E20" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=wajihulqammar&limit=5&theme=light&combine_all_yearly_contributions=true)
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=wajihulqammar&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+I'm a **Full Stack Web Developer** specializing in the **MERN stack**, focused on building scalable, **AI-integrated web applications**. Alongside this, I have strong hands-on experience with **WordPress** and **Shopify**, building custom themes, plugins, and e-commerce solutions for businesses looking to grow online.
+
+- 🎓 BS Computer Software Engineering student at **Capital University of Science & Technology (CUST)**, Islamabad
+- 💼 Currently working as a **Shopify Developer** at IR Solutions, and as a **Software Engineer** at Auremix (remote)
+- 🧠 Actively exploring **AI integration** in modern web development
+- 🌍 Open to remote opportunities worldwide in web development & full-stack roles
+- ⚡ Fun fact: I turn ideas into fully functional web apps and online stores, end to end
+
+I work with modern technologies including:
+
+- MERN Stack (MongoDB, Express.js, React, Node.js)
+- Next.js
+- WordPress Development
+- Shopify Development
+- Django & Python
+- MySQL & PostgreSQL
+- Artificial Intelligence (AI) concepts & integration
+- Git & GitHub
+
+<br/>
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,mysql,django,python,cpp,js,ts,html,css,tailwind,redis,docker,git,github,figma,vercel,wordpress,vscode,postman&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Shopify-2EA043?style=for-the-badge&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Railway-2EA043?style=for-the-badge&logo=railway&logoColor=white" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=wajihulqammar&show_icons=true&theme=transparent&hide_border=true&title_color=2EA043&icon_color=56D364&text_color=ffffff&bg_color=00000000" width="48%" />
+<img src="https://streak-stats.demolab.com?user=wajihulqammar&theme=transparent&hide_border=true&background=00000000&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wajihulqammar&theme=react-dark&hide_border=true&bg_color=00000000&color=2EA043&line=2EA043&point=A8E6A1&area=true&area_color=2EA043" width="97%" />
+
+</div>
+
+<!--
+NOTE: If the GitHub Stats card or Activity Graph shows a broken/alt-text image,
+it's a temporary rate-limit on the free Vercel-hosted service (not your code).
+Hard refresh (Ctrl+Shift+R) or wait a few minutes and it usually resolves.
+If it keeps breaking, deploy your own copy of github-readme-stats to Vercel
+(https://github.com/anuraghazra/github-readme-stats) and swap the URL above
+for your own deployed domain.
+-->
+
+<br/>
+
+<!-- 🐍 Contribution Snake -->
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/wajihulqammar/wajihulqammar/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" width="97%" />
+
+</div>
+
+<!--
+IMPORTANT: This snake image stays broken until you add the workflow below.
+Create a file at: .github/workflows/snake.yml in your wajihulqammar/wajihulqammar repo,
+then go to the Actions tab and manually run it once ("Run workflow").
+After it runs successfully, the image above will start working.
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: wajihulqammar
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
+
+<br/>
+
+<div align="center">
+
+## 🤝 Connect With Me
+
+<a href="https://linkedin.com/in/wajihulqammar" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-2EA043?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/wajihulqammar._" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-2EA043?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:wajiul.qammar@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-2EA043?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,100:2EA043&height=150&section=footer"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:A8E6A1,100:2EA043&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8E6A1,100:2EA043&height=150&section=footer"/>
+</picture>
