@@ -1,3 +1,9 @@
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Your Banner Title" src="art/header-light.png">
+</picture>
+
+
 # 💫 About Me:
 Hi, I'm Wajih Ul Qammar 👋  <br><br>I am a passionate Website & Full-Stack Developer with experience in building responsive, scalable, and user-focused web applications.  <br><br>I work with modern technologies including:<br><br>- MERN Stack (MongoDB, Express.js, React, Node.js)<br>- WordPress Development<br>- Shopify Development<br>- React.js & Node.js<br>- MySQL & MongoDB<br>- Artificial Intelligence (AI) concepts & integration<br>- Mobile Application Development<br>- Laravel & PHP 
 (Basics)<br><br>I enjoy turning complex ideas into practical digital solutions and continuously expanding my technical expertise.  <br><br>🚀 Currently open to remote opportunities, freelance projects, and collaborative tech ventures.
