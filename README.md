@@ -61,8 +61,12 @@ I work with modern technologies including:
 
 ## 📊 GitHub Stats
 
-
-<img src="https://streak-stats.demolab.com?user=wajihulqammar&theme=transparent&hide_border=true&background=00000000&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" width="48%" />
+<!-- Streak stats: white text in dark mode, black text in light mode -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=wajihulqammar&theme=transparent&hide_border=true&background=00000000&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=wajihulqammar&theme=transparent&hide_border=true&background=00000000&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=000000" />
+  <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=wajihulqammar&theme=transparent&hide_border=true&background=00000000&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=000000" width="48%" />
+</picture>
 
 <br/>
 
@@ -86,7 +90,11 @@ for your own deployed domain.
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/wajihulqammar/wajihulqammar/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" width="97%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wajihulqammar/wajihulqammar/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wajihulqammar/wajihulqammar/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake animation" src="https://raw.githubusercontent.com/wajihulqammar/wajihulqammar/output/github-contribution-grid-snake.svg" width="97%" />
+</picture>
 
 </div>
 
@@ -140,7 +148,7 @@ jobs:
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,100:2EA043&height=150&section=footer"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,100:2EA043&height=150&section=footer"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:A8E6A1,100:2EA043&height=150&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8E6A1,100:2EA043&height=150&section=footer"/>
+  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:A8E6A1,100:2EA043&height=150&section=footer"/>
 </picture>
